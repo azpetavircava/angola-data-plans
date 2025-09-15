@@ -1,2 +1,3 @@
 # angola-data-plans
-Angola Data-only plans guides
+
+全球通信 README（占位）
