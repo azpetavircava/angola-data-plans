@@ -78,3 +78,10 @@ layout: default
 
   *   **网络质量**：别对安哥拉的网速抱有欧洲那样的期待。离开主要城市，信号减弱、网速下降是常态。把它想象成一条有时宽阔有时狭窄的乡间公路，而不是高速公路。
   *   **支付问题
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Angola SIM 卡购买与激活指南](https://faciylike.github.io/angola-sim-guides)
